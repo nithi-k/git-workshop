@@ -1,7 +1,7 @@
 User1
-Name:
-Phone:
-Car:
+Name:Pom
+Phone:0919999999
+Car:Toyata
 
 User2
 Name:
