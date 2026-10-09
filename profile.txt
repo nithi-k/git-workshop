@@ -1,7 +1,7 @@
 User1
-Name:
-Phone:
-Car:
+name: atit 	
+Phone:0874941422
+Car:milage
 
 User2
 Name:
