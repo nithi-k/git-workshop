@@ -1,7 +1,7 @@
 User1
-Name:Pom
-Phone:0919999999
-Car:Toyata
+name: atit 	
+Phone:0874941422
+Car:milage
 
 User2
 Name:
